@@ -55,8 +55,24 @@ This Python project leverages the power of `aiogram` to create a Telegram bot th
 4. Run the bot and start managing your logs!
 
 
-**🛠️ Developed by:** [CashMoneyL33T] 
-**🔗 Telegram:** [@CashMoneyL33T](https://t.me/CashMoneyL33T)
-**🌐 Website/Portfolio:** [Link to your website or portfolio (if applicable)]
+🚀 Powered by CashMoneyL33T 🚀
 
-**🤝 Contributions welcome!**
+🔗 Connect on Telegram: [@CashMoneyL33T](https://t.me/CashMoneyL33T)
+
+🤝 Your contributions fuel the innovation! Got ideas or want custom scripts? Hit me up!
+
+☕ Feeling generous? Fuel the coding sessions with a caffeine boost!
+
+| Cryptocurrency | Network/Blockchain | Wallet Address                                |
+|---|---|---|
+| USDT (ERC20)  | Ethereum          | `0xC6AC9f96f5365005fc0515c61CA7Bc31612De598` |
+| USDT (TRC20)  | Tron              | `TNzb4anVHyTX8hVDkRirBkMYGGvypJi23D`     |
+| Bitcoin (BTC) | Bitcoin           | `32WjJxt7bgaJkDRLN79P7hhivtVp9XqZqa`     |
+| Ether (ETH)    | Ethereum          | `0xC5602B7F93dA2EE66D676195fc4EC3aA30fe369f` |
+| Litecoin (LTC) | Litecoin           | `MPi4tRH9PDfbSqabS2i4RZyZieHZVer4Xt`     |
+| Tron (TRX)     | Tron              | `THAvPAwSzNubqajqwHovBwvHBgAk5BfDWx`     |
+**Important Notes:**
+
+* **Double Check Addresses:** Cryptocurrency addresses are case-sensitive. Always double-check before sending any funds.
+* **Network/Blockchain:** Ensure you are sending the correct cryptocurrency to the corresponding network/blockchain. Sending to the wrong network can result in lost funds.
+* **Security:** Keep your private keys and seed phrases safe and secure. Never share them with anyone. 
