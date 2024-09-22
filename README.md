@@ -55,7 +55,7 @@ This Python project leverages the power of `aiogram` to create a Telegram bot th
 4. Run the bot and start managing your logs!
 
 
-🚀 Powered by CashMoneyL33T 🚀
+## 🚀 Powered by CashMoneyL33T 🚀
 
 🔗 Connect on Telegram: [@CashMoneyL33T](https://t.me/CashMoneyL33T)
 
