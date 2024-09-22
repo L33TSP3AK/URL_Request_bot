@@ -71,8 +71,3 @@ This Python project leverages the power of `aiogram` to create a Telegram bot th
 | Ether (ETH)    | Ethereum          | `0xC5602B7F93dA2EE66D676195fc4EC3aA30fe369f` |
 | Litecoin (LTC) | Litecoin           | `MPi4tRH9PDfbSqabS2i4RZyZieHZVer4Xt`     |
 | Tron (TRX)     | Tron              | `THAvPAwSzNubqajqwHovBwvHBgAk5BfDWx`     |
-**Important Notes:**
-
-* **Double Check Addresses:** Cryptocurrency addresses are case-sensitive. Always double-check before sending any funds.
-* **Network/Blockchain:** Ensure you are sending the correct cryptocurrency to the corresponding network/blockchain. Sending to the wrong network can result in lost funds.
-* **Security:** Keep your private keys and seed phrases safe and secure. Never share them with anyone. 
