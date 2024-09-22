@@ -18,9 +18,7 @@ This Python project leverages the power of `aiogram` to create a Telegram bot th
     * 📝 The ability to request new logs if none are found
 * **📤 Import:** Admins have the capability to import logs in bulk from a `.txt` file (following the format: `website:login:password`)
 
-![Example](https://i.imgur.com/Fmw2A0Y.gif) 
-
-
+https://imgur.com/Fmw2A0Y
 
 ### 👮 Admin Panel
 
